@@ -1,0 +1,13 @@
+ #container{
+    border:solid;
+    width:370px;
+    margin-left: 320px;
+   /* border-radius: 5px; */
+ }
+ #bh1{
+    margin-left:360px;
+    border:solid;
+    width:250px;
+    border-radius: 8px;
+    /* background-color: cadetblue; */
+ }
